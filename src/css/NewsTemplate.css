@@ -1,0 +1,48 @@
+
+.card-img-top 
+{
+    display: block;
+    width: 20em;
+    height: 14em;
+}
+
+.card-title 
+{
+    font-size: 1.28571429em;
+    font-weight: 700;
+    line-height: 1.2857em;
+}
+
+.card-text 
+{
+    clear: both;
+    margin-top: .5em;
+    color: rgba(0, 0, 0, .68);
+}
+
+
+
+
+.cardNews
+{
+    width: 70em;
+    height: 12em;
+    margin-bottom: 1em;
+    overflow: hidden;
+}
+
+.newsTitle
+{
+    font-size: 18px
+}
+
+.newsImage
+{
+    height: 11.9em;
+    width: 20em;
+}
+
+.card-block-news
+{
+    margin-top: 1em;
+}
